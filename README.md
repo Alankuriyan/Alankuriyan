@@ -6,7 +6,7 @@ I’m passionate about building real-world software products focused on cybersec
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 B.Tech Student
 - 💻 Developer
