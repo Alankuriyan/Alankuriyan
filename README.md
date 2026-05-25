@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Alan Kuriyan
 
-<!--
-**Alankuriyan/Alankuriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Student  | Developer | Cybersecurity Enthusiast | Building AI-Powered Solutions
 
-Here are some ideas to get you started:
+I’m passionate about building real-world software products focused on cybersecurity, AI, and web development. I enjoy creating projects that solve practical problems and improve digital security for users and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+- 🎓 B.Tech Student
+- 💻 Developer
+- 🔐 Interested in Cybersecurity & Ethical Hacking
+-  Exploring AI-powered applications
+- 🌱 Currently learning advanced backend and security concepts
+- ⚡ Love building Chrome Extensions and security tools
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI-Based POS Retail Intelligence System
+AI-powered POS retail analytics platform for sales tracking, inventory monitoring, and smart business insights.
+
+### 🔹 Prosurf Chrome Extension
+A browser security extension that checks whether websites are safe using security APIs and custom threat analysis.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Node.js
+- Express.js
+- Postgres SQL
+- GitHub
+
+
+### Areas of Interest
+- Cybersecurity
+- Web Development
+- AI Applications
+- Ethical Hacking
+
+---
+
+## 📈 GitHub Stats
+
+```txt
+🚀 Building projects consistently
+📚 Learning every day
+🔐 Exploring cybersecurity deeply
